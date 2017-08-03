@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2FDSpace.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2FDSpace?ref=badge_shield)
+
 Installation instructions are included in this release package under
 
  - dspace/docs/DSpace-Manual.pdf
@@ -52,3 +54,6 @@ DSpace source code licensing information available online at:
  - http://www.dspace.org/license/
 
 Copyright (c) 2002-2012, DuraSpace.  All rights reserved.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2FDSpace.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2FDSpace?ref=badge_large)
