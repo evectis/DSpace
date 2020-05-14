@@ -791,7 +791,7 @@
          <dependency>
             <groupId>xalan</groupId>
             <artifactId>xalan</artifactId>
-            <version>2.7.0</version>
+            <version>2.7.2</version>
          </dependency>
          <dependency>
             <groupId>xerces</groupId>
@@ -1104,7 +1104,7 @@
       </developer>
       <developer>
          <name>Jeffrey Trimble</name>
-         <email />
+         <email/>
          <roles>
            <role>commiter</role>
         </roles>
@@ -1141,8 +1141,8 @@
          <name>Pere Villega</name>
          <email>pere.villega@gmail.com</email>
          <url>http://www.perevillega.com</url>
-         <organization />
-         <organizationUrl />
+         <organization/>
+         <organizationUrl/>
          <roles>
             <role>developer</role>
          </roles>
