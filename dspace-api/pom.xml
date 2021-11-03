@@ -155,7 +155,7 @@
                   <phase>process-test-resources</phase>
                   <configuration>
                     <tasks>
-                        <copy file="${agnostic.build.dir}/testing/dspace.cfg.woven" tofile="${agnostic.build.dir}/testing/dspace/config/dspace.cfg" />
+                        <copy file="${agnostic.build.dir}/testing/dspace.cfg.woven" tofile="${agnostic.build.dir}/testing/dspace/config/dspace.cfg"/>
                     </tasks>
                   </configuration>
                   <goals>
@@ -427,7 +427,7 @@
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
-            <version>2.2.1</version>
+            <version>2.8.9</version>
             <scope>compile</scope>
         </dependency>
 
