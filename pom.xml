@@ -23,7 +23,7 @@
     <!--Force UTF-8 encoding during build on all platforms-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <lucene.version>3.5.0</lucene.version>
+        <lucene.version>4.0.0</lucene.version>
         <!-- 'root.basedir' is the path to the root [dspace-src] dir. It must be redefined by each child POM,
              as it is used to reference the LICENSE_HEADER and *.properties file(s) in that directory. -->
         <root.basedir>${basedir}</root.basedir>
@@ -715,7 +715,7 @@
          <dependency>
             <groupId>jaxen</groupId>
             <artifactId>jaxen</artifactId>
-            <version>1.1</version>
+            <version>1.1.6</version>
             <exclusions>
                <exclusion>
                   <artifactId>xom</artifactId>
@@ -766,17 +766,17 @@
          <dependency>
            <groupId>org.apache.poi</groupId>
            <artifactId>poi</artifactId>
-           <version>3.6</version>
+           <version>3.7</version>
          </dependency>
          <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-scratchpad</artifactId>
-            <version>3.6</version>
+            <version>3.7</version>
          </dependency>
          <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>3.6</version>
+            <version>3.11</version>
          </dependency>
          <dependency>
             <groupId>net.java.dev.rome</groupId>
@@ -1104,7 +1104,7 @@
       </developer>
       <developer>
          <name>Jeffrey Trimble</name>
-         <email />
+         <email/>
          <roles>
            <role>commiter</role>
         </roles>
@@ -1141,8 +1141,8 @@
          <name>Pere Villega</name>
          <email>pere.villega@gmail.com</email>
          <url>http://www.perevillega.com</url>
-         <organization />
-         <organizationUrl />
+         <organization/>
+         <organizationUrl/>
          <roles>
             <role>developer</role>
          </roles>
